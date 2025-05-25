@@ -1,0 +1,13 @@
+{
+    "name": "kartetris",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "front": "cd kartetris/frontend && npm run dev",
+        "back": "cd kartetris/backend && npm run dev"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+  }
+  
